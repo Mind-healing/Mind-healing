@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mind-healing
+- 👋 Hi, I am Aderoju Covenant
 - 👀 I’m interested in solving data problems
 - 🌱 I’m currently a Data Scientist
 - 💞️ I’m looking to collaborate with like minded data analyst and scientist
